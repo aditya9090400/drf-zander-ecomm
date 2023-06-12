@@ -8,6 +8,7 @@
 - djangorestframework
 <!-- - django-cors-headers -->
 - pytest-django
+- django-mptt
 
 ## Commands
 
